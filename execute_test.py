@@ -99,3 +99,4 @@ if __name__ == "__main__":
     runt = RunTest()
     # runt.json_diff(wb, wb[sys.argv[1]])
     runt.target_diff("gpRat", wb, wb["【总经理驾驶室】经营分析【实时】"])
+    print('')
